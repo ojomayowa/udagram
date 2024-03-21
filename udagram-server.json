@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramCFProject"
+    },
+    {
+        "ParameterKey": "AMIID",
+        "ParameterValue": "ami-0e472ba40eb589f49"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.medium"
+    },
+    {
+        "ParameterKey": "ASGMinSize",
+        "ParameterValue": "4"
+    },
+    {
+        "ParameterKey": "ASGMaxSize",
+        "ParameterValue": "6"
+    }
+]
